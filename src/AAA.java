@@ -8,6 +8,6 @@ public class AAA {
         System.out.println("更新");
         System.out.println("开发游戏");
         System.out.println("更换主题");
-        System.out.println("哈哈冲突冲突");
+        System.out.println("哈哈冲突冲突哈哈");
     }
 }
