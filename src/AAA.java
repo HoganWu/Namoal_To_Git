@@ -6,6 +6,7 @@
 public class AAA {
     public static void main(String[] args) {
         System.out.println("更新");
-
+        System.out.println("开发游戏");
+        System.out.println("更换主题");
     }
 }
